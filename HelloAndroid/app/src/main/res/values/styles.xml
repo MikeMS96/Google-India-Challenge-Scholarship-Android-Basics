@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- This Style is for Udacity name. -->
+    <style name="Udacity">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">@dimen/udacityTextSize</item>
+        <item name="android:textColor">@color/udacityName</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:padding">@dimen/paddingValue</item>
+    </style>
+
+    <!-- This Style is for other texts name. -->
+    <style name="TextStyle">
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:padding">@dimen/paddingValue</item>
+    </style>
+
+</resources>
