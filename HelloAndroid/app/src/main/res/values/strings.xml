@@ -4,4 +4,6 @@
     <string name="address">2465 Latham St\nMountain View, CA 94043</string>
     <string name="phone_number">650-555-5555</string>
     <string name="website">https://udacity.com</string>
+    <string name="about_udacity">Udacity is where lifelong learners come to learn the skills they need,
+        to land the jobs they want, to build the lives they deserve.</string>
 </resources>
