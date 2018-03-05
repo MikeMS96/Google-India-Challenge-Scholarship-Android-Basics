@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Udaipur Tourist Guide</string>
+
+    <string name="address">Address</string>
+    <string name="contact">Contact</string>
+    <string name="email">E-mail</string>
+
+    <string name="hotels">Hotels</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="tourist_place">Tourist Places</string>
+</resources>
